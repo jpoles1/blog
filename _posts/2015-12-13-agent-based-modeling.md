@@ -12,6 +12,8 @@ There are a couple of means of modeling the progress of epidemics:
 2. <p>Agent-based models: While mathematical models can provide some very accurate results with strong predictive value, they fail to take into consideration all of the factors which can govern a system as complex and chaotic as the spread of disease in a real population. Herein lies the value of agent-based modeling.</p>
 <p>Agent-based modeling is a technique which leverages the power of computation to simulate systems in which a disease might spread. The goal of agent-based modeling is to design a computational laboratory that can be used to test the impact of various variables on disease progression in a complex system such as a human social network. Nonetheless, we try and keep our models as simple as possible so as to save time on un-needed coding and run-time. It might help to begin by describing what exactly an agent is in the context of modeling.
 
+<!-- more -->
+
 ###The Agents in Our Model
 No, unfortunately, our agents are not particularly secretive nor bad-ass. Instead, an agent can be thought of as anything in our simulation which might take actions. In our case, this is likely a creature, which can age, eat, sleep, visit locations, interact with other organisms, get infected with disease, recover, reproduce and die. It might also be a bacteria, which can infect a creature, and kill it after a set period of time. You, as the programmer, may be responsible for designing all of the behaviors which an actor may take in your simulation, as well as how these behaviors impact the world around them.
 
