@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Jekyll - "Read more" links
+categories: blog, jekyll
+tags: jekyll, markdown, feature, blog
 ---
 I just implemented a new feature on the blog: [read more links](https://github.com/jpoles1/blog/commit/f94a710f631ace1950b820e571ec5642fca99837)! After writing my first post, I realized that it was rather long and took up a lot of space in the post timeline (home page). I needed some way to cut-off part of the material in the preview and only include it in the whole article. After some searching I came upon [Trần Trường's article](https://truongtx.me/2013/05/01/jekyll-read-more-feature-without-any-plugin/), which detailed the code for something similar to what I desired.
 

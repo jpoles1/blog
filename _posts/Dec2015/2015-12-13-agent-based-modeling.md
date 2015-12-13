@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Modeling Epidemics - Mathematical Models versus Agent-based Modeling
+categories: modeling
+tags: ABM, modeling, agent, SIR, EpiSims
 ---
 With the end of the fall semester here at Rice I have a lot more free time to take on personal projects and explore some of the material I learned this semester in more depth. To this end, I have started revisting material from my EBIO 331 (Biology of Infectious Disease) course. One thing that I was particularly interested in during my studies in this class was the potential for computational modeling to be used in this field. In order to explore this subject further, I've begun to implement some such models using Python!
 
