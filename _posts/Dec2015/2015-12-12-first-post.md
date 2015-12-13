@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Post
-categories: blog
 tags: first
 ---
 This is the first post on my new blog. I'm starting this whole project up because... well because I love to try out new stuff. I've read about the <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck method of debugging</a>, and it inspired me, because even if no one ever reads this blog, it will help me to process my thoughts and guide my learning and work. It also provides me a medium to show off all the work that I've been doing, and hopefully, to provide examples and guidance for those who like to learn new stuff off the internet (much like myself).
