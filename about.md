@@ -1,5 +1,5 @@
 ---
-layout: pagebackup
+layout: none
 title: About
 ---
 
