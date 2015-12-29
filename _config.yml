@@ -12,7 +12,7 @@ title:            Jordan Poles
 tagline:          'Exploring Life Through Code'
 description:      "I'm a student at Rice University studying Biosciences, Statistics, and more. I love to code! Join me as I explore my world through code."
 url:              http://jpoles1.github.io/blog/
-baseurl:          /blog
+baseurl:          /blog/
 
 author:
   name:           'Jordan Poles'
