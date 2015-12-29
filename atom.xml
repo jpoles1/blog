@@ -20,7 +20,7 @@ layout: null
    <title>{{ post.title }}</title>
    <link href="http://jpoles1.github.io/blog{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
+   <id>http://jpoles1.github.io/blog{{ post.id }}/</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
