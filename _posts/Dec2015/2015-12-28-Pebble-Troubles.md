@@ -25,6 +25,8 @@ Another tip for new Pebble Time owners: while the watch has a nice Gorilla Glass
 ###The Death of a Pebble Time
 In the course of writing this review, I was visited by an even greater Pebble Time problem. My watch has died altogether. It began with the watching running out of batteries like it had previously, but now it won't turn back on when I charge it. Instead, it enters a boot loop: it displays the Pebble logo, starts the watch operating system, then powers off only to restart the cycle anew. I let it go to do this for a bit (even let the battery fully discharge), and when I saw nothing had changed, I tried to put the watch into recovery mode. Now the watch is still stuck in a bootloop, but boots into the recovery screen, instead of the operating system. This makes me a sad Pebble Time owner.
 
+![Pebble Time Recovery Screen](/blog/public/img/2015-12-28-Pebble-Troubles/recovery.png "Pebble Time Recovery Screen")
+_The recovery screen, which I am now rather sick of seeing._
 ###Future steps
 I've contacted Pebble and told them about all of my issues with my device. I've read on several sources that the company provides high quality customer support and care, so we'll see how that goes. I've yet to receive a helpful response, though they have acknowledged the receipt of my complaint. I'll write another post once I hear back.
 
