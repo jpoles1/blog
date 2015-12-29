@@ -10,7 +10,7 @@ relative_permalinks: false
 # Setup
 title:            Jordan Poles
 tagline:          'Exploring Life Through Code'
-description:      "I'm a student at Rice University studying Biosciences, Statistics, and more. I love to code! Join me as I explore my world through code."
+description:      "I'm a student at Rice University studying Biosciences, Statistics, and PJHC. I love to code, and tinker! Join me as I explore my world."
 url:              http://jpoles1.github.io/blog/
 baseurl:          /blog/
 
