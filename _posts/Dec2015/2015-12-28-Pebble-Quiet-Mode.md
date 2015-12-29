@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big Problems with the Pebble Time
+title: Pebble Time - Quiet Time API Needed
 tags: pebble, pebble time, smartwatch, problems, review
 ---
 Taking a break from some of my hardware problems with the Pebble Time, I want to take a minute to focus in on a software feature that I'd like to see in the next firmware update. In the last update, the Pebble dev team introduced a handy quiet mode feature, which allows the user to mute the vibrations that occur when a new notification is sent to the watch. This is nice for when a wearer is sleeping, or in class/meetings which they don't want to be distracted from. The feature can be enabled by holding down the back button, or can be scheduled to days of the week or calendar events. I love the concept, but there is one thing which was missing from this software update: an API interface.
