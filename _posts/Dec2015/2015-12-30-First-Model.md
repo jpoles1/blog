@@ -25,6 +25,7 @@ where β = infection rate; γ = recovery rate; and μ = death rate.
 Both of the programs which I have developed in order to recreate mathematical models are rather similar, and produce seemingly identical results when given the same starting parameters. In both cases I utilized ggplot to produce static charts. Here's the cleaned up plot that I produced in R. I've included the code used to produce this output below. I hope to develop an interactive version of this simulation at some point in the future.
 
 ![R Model](/blog/public/img/2015-12-29-First-Model/RModel1.png "R Model")
+_The SIRD dynamics of a model outbreak. In this case, I was attempting to model the outbreak of a fairly virulent pathogen (like a novel influenza epidemic). We can see that the outbreak peaks and resolves fairly quickly, albeit with a rather high mortality rate._
 
 ###R Code
 
