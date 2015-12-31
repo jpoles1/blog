@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling Epidemics - Mathematical Models in R and Python
+title: Modeling Epidemics - A Shiny New SIRD Model
 tags: modeling, mathematical, epidemic, disease, R, Python
 ---
 
