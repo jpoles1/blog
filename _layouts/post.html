@@ -7,9 +7,16 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
-
 <div class="related">
-  <h2>Related/Recent Posts</h2>
+  {% if page.previous.url %}
+    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">&laquo; Prev. Post</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{ site.baseurl }}{{page.next.url}}" style="float: right;">Next Post &raquo;</a>
+  {% endif %}
+</div>
+<div class="related">
+  <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
