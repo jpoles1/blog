@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling Epidemics - First Steps with Agent-Based Modeling
+title: Modeling Epidemics - First Steps with Agent-Based Modeling Pt. 2
 tags: modeling, abm, agent, epidemic, disease, Python, networkx
 ---
 For those who have been reading along with my past couple of blog posts, you've seen me explore different means of utilizing computational modeling to explore epidemic dynamics. In my last two posts ([here](http://jpoles1.github.io/blog/2015/12/31/Shiny-SIRD/) and [here](http://jpoles1.github.io/blog/2015/12/30/First-Model/)), I developed a basic set of scripts (in R and Python) which apply a series of simple formulae to model aggregate/bulk infection dynamics in a population. In this case, the model is considered deterministic: meaning that my outcome will be the same every time I run the model.

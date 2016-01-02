@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling Epidemics - First Steps with Agent-Based Modeling
+title: Modeling Epidemics - First Steps with Agent-Based Modeling Pt. 1
 tags: modeling, abm, agent, epidemic, disease, Python, networkx
 postimg: Jan2016/firstnetworkani.gif
 ---
