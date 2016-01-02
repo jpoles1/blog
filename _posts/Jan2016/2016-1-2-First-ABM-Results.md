@@ -19,6 +19,8 @@ For now, I have harnessed a technique I have leveraged in a [previous project](h
 ![Animated Network Graph](/blog/public/img/Jan2016/firstnetworkani.gif)
 _Animation displaying the spread of the disease through the network (# nodes = 1000). Each node (or individual) can have one of four states for a given pathogen: susceptible (blue), infected (yellow/orange), recovered (green), or dead (red). Here we show a single pathogen system._
 
+<!-- more -->
+
 ###Graphing Disease Progression
 
 Though the animated network looks pretty cool, it doesn't tell us much about the quantitative dynamics of the disease. As such, I have the model create a graph of the SIRD dynamics for each pathogen present in the system (so far I've only tested single pathogen systems).
