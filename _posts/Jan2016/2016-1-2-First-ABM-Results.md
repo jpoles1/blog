@@ -2,6 +2,7 @@
 layout: post
 title: Modeling Epidemics - First Steps with Agent-Based Modeling
 tags: modeling, abm, agent, epidemic, disease, Python, networkx
+postimg: /blog/public/img/Jan2016/firstnetworkani.gif
 ---
 We spent the [last post](http://jpoles1.github.io/blog/2016/01/01/First-Steps-ABM/) discussing principles of agent based modeling, and the basic layout of the model I have initially created. Now it's time to see some results! All of the code used to generate this model can be found [here](https://github.com/jpoles1/disease/blob/master/model2.py).
 
