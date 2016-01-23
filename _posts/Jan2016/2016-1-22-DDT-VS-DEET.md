@@ -1,10 +1,9 @@
 ---
 layout: center-post
-title: DDT vs. DEET - A History of Two Insecticides
+title: DDT vs. DEET - A Closer Look at Pesticides
 tags: ddt, deet, intereactive, data
 postimg: Jan2016/pesticidemap.png
 ---
-##A Look at Two Different Insecticides
 One molecule is banned in the US and other locations around the world due to its toxicity; the other is commonly used as a spray to prevent bug bites. Do you know which is which?
 
 <!-- more -->
@@ -60,7 +59,8 @@ I was recently hanging out with my friends, when one of them asked what the diff
 
 To clarify this quickly and easily: <b>DEET</b> is commonly used in insect repellent sprays applied to skin or clothing, while <b>DDT</b> was used in agriculture and mosquito elimination efforts until it was [banned](https://en.wikipedia.org/wiki/DDT#U.S._ban) do to its toxic effects and build-up in the global food-chain. It is helpful to note that DDT belongs to a group of chemicals called the <b>Chlorinated Hydrocarbons</b> when examining the plot shown below.
 
-###Looking at Pesticide Data
+<br>
+##Looking at Pesticide Data
 This whole thing got me pretty interested in pesticide usage around the world. My first instinct was to look for some data (I had been thinking about interactive data visualization a lot at that time). I found it! The United Nations (UN) Food and Agriculture Organization (FAO) collects data on a variety of agriculture metrics, including usage of a variety of different pesticides. I wanted to explore this data, and create a plot, so I turned to my handy d3.js and got started.
 
 Here's the result! I think it looks really nice. I encourage you to click on the image below to go to the site, and play around with the map: click on countries to explore their usage of a specific pesticide over time, or scroll through the selector in the title to pick a different pesticide. This is just a work in progress, but I think it's pretty nifty.
