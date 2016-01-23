@@ -125,7 +125,11 @@ a.sidebar-nav-item:focus {
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
-
+@media (max-height: 1100px){
+  .hideshort{
+    display: none;
+  }
+}
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
