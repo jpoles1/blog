@@ -32,6 +32,9 @@ One molecule is banned in the US and other locations around the world due to its
   .halfimg a b{
     text-decoration: underline;
   }
+  .post{
+    padding-right: 25px;
+  }
 </style>
 <div id="imgbox">
   <div class="halfimg">
