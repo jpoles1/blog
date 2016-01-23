@@ -12,6 +12,8 @@ In anticipation of a job interview for a data analysis/graphics position (but mo
 
 One of the reasons why I am so excited about interactive data visualization is that it really allows the user to explore the data themselves in order to get a better understanding for what is going on. I encourage you to play around with the map below; take a look at the various variables using the drop-down and explore numbers for individual states by hovering over them.
 
+<!-- more -->
+
 #####[View Map in Fullscreen](http://jpoles1.github.io/earnest/)
 
 <iframe src="http://jpoles1.github.io/earnest/" width="1300", height="850" style="margin-top: 40px; margin-bottom: 40px;"></iframe>
