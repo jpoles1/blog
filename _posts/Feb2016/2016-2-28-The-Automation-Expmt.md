@@ -2,7 +2,7 @@
 layout: post
 title: The Automation Experiment - First Report
 tags: automation, arduino, hack-a-day, led, 433, voice, tts, stt, python, nodejs
-#postimg: Jan2016/pebblewatchfacescreenshot.png
+postvid: domo_first_demo.mp4
 ---
 For those who have been reading regularly, you might know that I am pretty interested in home (or in my case, dorm room) automation. In my sophomore year (last school year), I began work on automating my dorm room here at Rice University. In a few paragraphs, I will introduce you to <b>Domo</b> — named after the Spanish word for butler _mayordomo_ and the Esperanto word for house _domo_ — the latest version of RRAD (Rice Ridiculously Automated Dorm), but first some background.
 
