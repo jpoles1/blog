@@ -12,8 +12,8 @@
   <meta property="og:site_name" content="Jordan Poles' Blog"/>
   {% if page.postimg %}
   <meta property="og:image" content="http://jpoles1.github.io/blog/public/img/{{page.postimg}}"/>
-  {% elsif page.postvid %}
-  <meta property="og:image" content=""/>
+  {% endif %}
+  {% if page.postvid %}
   <meta property="og:video:url" content="https://jpoles1.github.io/blog/public/vid/{{page.postvid}}"/>
   <meta property="og:video:secure_url" content="https://jpoles1.github.io/blog/public/vid/{{page.postvid}}"/>
   {% endif %}
